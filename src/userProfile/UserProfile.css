@@ -1,0 +1,21 @@
+.card {
+  background-color: lightslategray;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 2px solid lightgreen;
+}
+.profile-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.info {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 3px;
+}
